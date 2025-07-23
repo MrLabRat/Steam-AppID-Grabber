@@ -3,6 +3,6 @@
     "name": "appid-display",
     "common_name": "Steam AppID Display",
     "description": "Displays the AppID under game titles on Steam store pages with a copy button.",
-    "author": "MrLabRat & Cascade",
+    "author": "MrLabRat & Windsurf",
     "version": "1.0.0"
 }

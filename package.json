@@ -1,0 +1,28 @@
+{
+  "name": "steam-appid-display",
+  "version": "1.0.0",
+  "description": "Displays the AppID under game titles on Steam store pages with a copy button",
+  "main": "./frontend/index.tsx",
+  "type": "module",
+  "scripts": {
+    "dev": "millennium-ttc --build dev",
+    "build": "millennium-ttc --build prod"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.6",
+    "@types/webpack": "^5.28.5",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@steambrew/client": "^5.3.2",
+    "@steambrew/api": "^5.2.4",
+    "@steambrew/webkit": "^5.3.3",
+    "@steambrew/ttc": "^2.5.3"
+  },
+  "author": "MrLabRat & Cascade",
+  "license": "MIT"
+}

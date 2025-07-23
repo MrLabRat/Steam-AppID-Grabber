@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+    "name": "appid-display",
+    "common_name": "Steam AppID Display",
+    "description": "Displays the AppID under game titles on Steam store pages with a copy button.",
+    "author": "MrLabRat & Cascade",
+    "version": "1.0.0"
+}

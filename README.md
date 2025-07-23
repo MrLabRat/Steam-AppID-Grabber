@@ -47,3 +47,8 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## License
 
 MIT
+
+
+## Creators
+
+This was made with Cascade, an AI coding tool. I needed something to get this done quick and I don't have too much coding knowledge but I'd be welcome to get started.

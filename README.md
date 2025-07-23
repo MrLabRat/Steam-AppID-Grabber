@@ -14,12 +14,11 @@ A Millennium plugin that displays the AppID of games underneath their titles on 
 ## Installation
 
 1. Ensure you have [Millennium](https://github.com/SteamClientHomebrew/Millennium) installed
-2. Clone this repository to your Millennium plugins folder:
-   ```
-   git clone https://github.com/yourusername/steam-appid-display "%PROGRAMFILES(X86)%\Steam\plugins\steam-appid-display"
-   ```
-3. Restart Steam or reload Millennium
-4. The plugin should now be active - visit any Steam store page to see it in action!
+2. Download the latest [release](https://github.com/MrLabRat/Steam-AppID-Grabber/releases/download/release/release.7z).
+3. Put the contents in C:\Program Files (x86)\Steam\plugins
+4. Restart Steam or reload Millennium
+5. The plugin should now be active – visit any Steam store page to see it in action!
+
 
 ## Usage
 

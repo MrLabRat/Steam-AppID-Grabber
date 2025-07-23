@@ -53,3 +53,5 @@ MIT
 This was made with Windsurf, an AI coding tool. I needed something to get this done quick and I don't have too much coding knowledge but I'd be welcome to get started.
 
 You can find Windsurf at https://windsurf.com/
+
+If the creator of Millennium would like this taken down for whatever reason, feel free to make an issue and I will happily take it down.
